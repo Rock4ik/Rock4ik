@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! 👋 Я Rock4ik
 
-<!--
-**Rock4ik/Rock4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Начинающий программист
 
-Here are some ideas to get you started:
+## Обо мне:
+- 🎓 Недавно закончил учебу
+- 💻 Осваиваю основы программирования
+- 🌱 Изучаю новые технологии
+- 🚀 Стремлюсь к развитию в IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои навыки:
+- 🐍 Python (базовый уровень)
+- 🌐 HTML/CSS (начальный уровень)
+- 🗃️ Git и GitHub (осваиваю)
+
+## Контакты:
+- 📧 Email: [ваш email]
+- 💼 LinkedIn: [ссылка если есть]
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=Rock4ik&show_icons=true&theme=radical)
