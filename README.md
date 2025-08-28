@@ -1,20 +1,5 @@
-# Привет! 👋 Я Rock4ik
+<br clear="both">
 
-🎯 Начинающий программист
-
-## Обо мне:
-- 🎓 Недавно закончил учебу
-- 💻 Осваиваю основы программирования
-- 🌱 Изучаю новые технологии
-- 🚀 Стремлюсь к развитию в IT
-
-## Мои навыки:
-- 🐍 Python (базовый уровень)
-- 🌐 HTML/CSS (начальный уровень)
-- 🗃️ Git и GitHub (осваиваю)
-
-## Контакты:
-- 📧 Email: [ваш email]
-- 💼 LinkedIn: [ссылка если есть]
-
-![Статистика](https://github-readme-stats.vercel.app/api?username=Rock4ik&show_icons=true&theme=radical)
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
