@@ -5,4 +5,4 @@
 ###
 
 <h1 align="center">Добро пожаловать на мой профиль 😊</h1>
-<p align="center">Меня зовут Ильназ!</p>
+<p align="center"><strong>Меня зовут Ильназ!</strong></p>
