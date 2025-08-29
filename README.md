@@ -29,5 +29,5 @@
 
 # 📊 Моя Статистика:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220](https://nirzak-streak-stats.vercel.app/?user=Rock4ik&theme=dark&hide_border=false" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rock4ik&theme=dark&hide_border=false" alt="streak graph"  />
 </div>
