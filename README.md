@@ -18,6 +18,16 @@
 Чтож, начинал я со школы 1, долго выбирал профессии и выбрал быть Программистом, затем после школы я перешел в универ и закончил там учится 4 года, после обучения я решил обучатся дальше программированию, пополнять портфолио и прокачивать свои навыки, зарабатывать опыт, в настоящий момент активно ищу работу 😊<br>
 
 ###
+<h3 align="left">🛠 На каких программах я работаю:</h3>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+###
+### 🛠️ Technologies & Tools
+
+**What I've mastered:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**What I'm currently learning:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
