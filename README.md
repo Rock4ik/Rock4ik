@@ -24,3 +24,10 @@
 
 **Сейчас изучаю:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
+###
+
+# 📊 Моя Статистика:
+![](https://github-readme-stats.vercel.app/api?username=Rock4ik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rock4ik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rock4ik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
