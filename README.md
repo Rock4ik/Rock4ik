@@ -26,14 +26,3 @@
 **Готов к новым вызовам и ищу возможности для старта в IT!** 😊<br>
 
 
-# 📊 Моя Статистика:
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rock4ik&theme=dark&hide_border=false" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rock4ik&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock4ik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
-</div>
