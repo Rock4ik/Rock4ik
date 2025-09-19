@@ -23,7 +23,7 @@
 
 **Знаком:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Офисное ПО:** Microsoft Word, Excel, PowerPoint
+**Знаком с офисным ПО:** Microsoft Word, Excel, PowerPoint
 
 **Готов к новым вызовам и ищу возможности для старта в IT!** 😊<br>
 
