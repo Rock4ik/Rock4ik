@@ -25,7 +25,6 @@
 
 **Знаком с офисным ПО:** <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" width="25" title="Word"/> Word ,  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="25" title="Excel"/> Excel, <img src="https://img.icons8.com/color/48/000000/gmail.png" width="25" title="Gmail"/> Gmail
 
-А также знаком с: <img src="https://img.icons8.com/dusk/48/000000/print.png" width="25" title="Принтер"/> Принтеры , <img src="https://img.icons8.com/dusk/48/000000/scanner.png" width="25" title="Сканер"/> Сканеры
 
 <br>
 
