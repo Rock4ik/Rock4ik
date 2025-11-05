@@ -38,6 +38,16 @@
 
 </div>
 
+## 📫 Как со мной связаться
+
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+[![Email](https://img.shields.io/badge/Email-ilnazclass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilnazclass@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rock4ik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rock4ik)
+
+</div>
+
 ## 📊 Статистика GitHub
 
 <div align="center">
