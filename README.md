@@ -10,7 +10,7 @@
 - 🎯 В активном поиске стажировки/первой работы для профессионального роста
 - 🇬🇧 Английский на уровне чтения документации и поддержания беседы
 
-### 🛠 Мой стек программирования
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Мой стек программирования
 
 ### 💎 Основной стек:
 <div align="left">
@@ -28,10 +28,3 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </div>
-
-
-
-
-
-
-P.S На данный момент изучаю FastAPI и Django <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" />
