@@ -29,3 +29,32 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </div>
+
+## 🎯 Мои цели
+
+<div align="center">
+
+![Goal](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00ff00&lines=Найти+стажировку+в+backend-разработке;Создать+сайт+"Проект+ТЗ"+во+время+стажировки;Выполнять+реальные+задачи+от+клиентов;Стать+профессиональным+Python+разработчиком&center=true&width=500&height=50)
+
+</div>
+
+## 📊 Статистика GitHub
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Rock4ik&show_icons=true&theme=radical&hide_border=true&locale=ru)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rock4ik&theme=radical&hide_border=true&locale=ru)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rock4ik&theme=radical&hide_border=true&layout=compact&locale=ru)
+
+</div>
+
+## 🏆 Прогресс обучения
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-85%25-yellow?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-70%25-black?style=for-the-badge&logo=flask)
+![HTML](https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5)
+![SQL](https://img.shields.io/badge/SQL-65%25-blue?style=for-the-badge&logo=postgresql)
+
+</div>
