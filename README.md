@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Goal](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00ff00&lines=Найти+стажировку+в+backend-разработке;Создать+сайт+"Проект+ТЗ"+во+время+стажировки;Выполнять+реальные+задачи+от+клиентов;Стать+профессиональным+Python+разработчиком&center=true&width=500&height=50)
+![Goal](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00ff00&lines=Найти+стажировку+в+backend-разработке;Создать+сайт+"Проект+ТЗ"+во+время+стажировки;Выполнять+реальные+задачи+от+клиентов;Стать+профессиональным+Python+разработчиком;Купить+кофе&center=true&width=500&height=50)
 
 </div>
 
