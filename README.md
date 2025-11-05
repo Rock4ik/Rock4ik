@@ -17,3 +17,5 @@
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,sqlite,django,github,visualstudio" /><br>
   <small>Python • Flask • FastAPI • HTML • SQLite • Django • GitHub • VS Code</small>
 </div>
+
+P.S На данный момент изучаю FastAPI и Django <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" />
