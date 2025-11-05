@@ -57,4 +57,6 @@
 
 </div>
 
+<div align="center">
 [![Hire Me](https://img.shields.io/badge/💼_Нанять_меня-00CC00?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:ilnazclass@gmail.com?subject=Предложение%20о%20сотрудничестве)
+</div>
