@@ -9,3 +9,19 @@
 - 📚 Верифицирую теорию практикой: от написания кода до разработки полноценного проекта
 - 🎯 В активном поиске стажировки/первой работы для профессионального роста
 - 🇬🇧 Английский на уровне чтения документации и поддержания беседы
+
+
+### 🛠 Мой стек технологий
+
+**💎 Основной стек:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+
+**📚 Изучаю и применяю на практике:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**🔧 Также знаком с:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
