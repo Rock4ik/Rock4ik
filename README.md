@@ -47,14 +47,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rock4ik&theme=radical&hide_border=true&layout=compact&locale=ru)
 
 </div>
-
-## 🏆 Прогресс обучения
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-85%25-yellow?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-70%25-black?style=for-the-badge&logo=flask)
-![HTML](https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5)
-![SQL](https://img.shields.io/badge/SQL-65%25-blue?style=for-the-badge&logo=postgresql)
-
-</div>
