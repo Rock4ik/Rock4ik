@@ -41,8 +41,10 @@
 ## Как со мной связаться?
 
 <div align="center">
-[![Email](https://img.shields.io/badge/Email-ilnazclass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilnazclass@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Rock4ik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rock4ik)
+  
+[![Email](https://img.shields.io/badge/📧_ilnazclass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilnazclass@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rock4ik)
 </div>
 
 ## 📊 Статистика GitHub
