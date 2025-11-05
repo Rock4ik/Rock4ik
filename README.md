@@ -56,3 +56,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rock4ik&theme=radical&hide_border=true&layout=compact&locale=ru)
 
 </div>
+
+[![Hire Me](https://img.shields.io/badge/💼_Нанять_меня-00CC00?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:ilnazclass@gmail.com?subject=Предложение%20о%20сотрудничестве)
