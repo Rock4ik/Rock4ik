@@ -12,6 +12,7 @@
 - Английский на уровне чтения документации и поддержания беседы
 - Без вредных превычек
 - Люблю работать и учиться в компании
+- Закончил АФ УВО «Университет управления «ТИСБИ» на факультет "Информационные системы и программирование" 3 года и 10 месяцев
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" height="25" /> Основной стек:
